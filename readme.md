@@ -4,7 +4,7 @@ The TGTG Monitor is a powerful automation script that continuously monitors Too 
 Bags in your area. Never miss out on great food deals again – get instant notifications when items become available at
 your favorite stores!
 
-## **Features**
+## Features
 
 - **Real-time Monitoring**: Continuously checks for new Magic Bags and stock availability in your specified area
 - **Location-based Search**: Configure your exact location using latitude/longitude coordinates and set a custom search
@@ -17,8 +17,8 @@ your favorite stores!
 - **Customizable Intervals**: Set your preferred monitoring frequency to balance between responsiveness and resource
   usage
 
-It is part of the [Cereal Automation Platform](https://cereal-automation.com/).
+## Download
 
-You can find the script here: [https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg](https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg)
+You can find the script here: [https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg](https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg), part of [Cereal Automation Platform](https://cereal-automation.com/).
 
 The source code for this script can be found here: [https://github.com/Cereal-Automation/Script-monitoring](https://github.com/Cereal-Automation/Script-monitoring)
