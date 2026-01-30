@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    uses: Cereal-Automation/Script-Monitoring/.github/workflows/reusable-script-release.yml@main
+    uses: Cereal-Automation/Script-Monitoring/.github/workflows/reusable-script-release.yml@master
     with:
       module: script-tgtg
       version: ${{ github.ref_name }}
