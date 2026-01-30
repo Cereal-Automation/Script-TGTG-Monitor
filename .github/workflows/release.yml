@@ -1,0 +1,13 @@
+name: Release TGTG Script
+
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  release:
+    uses: Cereal-Automation/Script-Monitoring/.github/workflows/reusable-script-release.yml@main
+    with:
+      module: script-tgtg
+      version: ${{ github.ref_name }}
