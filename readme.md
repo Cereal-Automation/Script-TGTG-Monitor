@@ -19,6 +19,8 @@ your favorite stores!
 
 ## Download
 
-You can find the script here: [https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg](https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg), part of [Cereal Automation Platform](https://cereal-automation.com/).
+You can find the script on the [Marketplace](https://marketplace.cereal-automation.com/scripts/com.cereal.monitor.tgtg), part of the [Cereal Automation Platform](https://cereal-automation.com/).
 
-The source code for this script can be found here: [https://github.com/Cereal-Automation/Script-monitoring](https://github.com/Cereal-Automation/Script-monitoring)
+## Development
+
+The source code for this script is available and development takes place here: [https://github.com/Cereal-Automation/Script-monitoring](https://github.com/Cereal-Automation/Script-monitoring)
